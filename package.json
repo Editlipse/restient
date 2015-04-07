@@ -1,6 +1,6 @@
 {
   "name": "restient",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A REST style HTTP/HTTPS client based on Unirest.",
   "main": "main.js",
   "scripts": {
