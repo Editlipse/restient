@@ -17,6 +17,9 @@
     "REST",
     "Unirest"
   ],
+  "dependencies": {
+    "unirest": ">=0.4.0"
+  },
   "author": "Ruoan Ji <jiruoan@gmail.com> (http://jiruoan.me/)",
   "license": "MIT License"
 }
